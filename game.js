@@ -12,7 +12,7 @@ let leftPaddle = {
     x: paddleMargin,
     y: canvas.height/2 - paddleHeight/2,
     width: paddleWidth,
-    height: paddleHeight,
+    height: paddleHeight+50,
     speed: 7
 };
 
